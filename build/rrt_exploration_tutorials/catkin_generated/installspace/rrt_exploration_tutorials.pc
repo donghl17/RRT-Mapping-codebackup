@@ -1,0 +1,8 @@
+prefix=/home/donghl/catkin_ws/install
+
+Name: rrt_exploration_tutorials
+Description: Description of rrt_exploration_tutorials
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/donghl/catkin_ws/install/lib 
+Requires: 

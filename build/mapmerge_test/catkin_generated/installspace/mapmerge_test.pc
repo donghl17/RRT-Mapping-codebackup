@@ -1,0 +1,8 @@
+prefix=/home/donghl/catkin_ws/install
+
+Name: mapmerge_test
+Description: Description of mapmerge_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/donghl/catkin_ws/install/lib 
+Requires: geometry_msgs map_msgs nav_msgs tf2_geometry_msgs

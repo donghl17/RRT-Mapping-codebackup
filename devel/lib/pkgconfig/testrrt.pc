@@ -1,0 +1,8 @@
+prefix=/home/donghl/catkin_ws/devel
+
+Name: testrrt
+Description: Description of testrrt
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/donghl/catkin_ws/devel/lib 
+Requires: geometry_msgs map_msgs nav_msgs tf2_geometry_msgs
